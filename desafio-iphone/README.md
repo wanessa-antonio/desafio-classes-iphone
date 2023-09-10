@@ -13,6 +13,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-Diagrama desenvolvido:
+Diagrama desenvolvido por mim:
 
 <img src="./src/aparelho/diagrama.png">
